@@ -15,3 +15,5 @@ In this paper, we are investating a new point new in addressing single image de-
 The trained model and our training and testing dataset can be found at 
 
 (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s)
+
+We will release the training file soon.  
