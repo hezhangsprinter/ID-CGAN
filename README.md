@@ -11,3 +11,4 @@ In this paper, we are investating a new point new in addressing single image de-
 
 
 <img src="image/6_input.jpg" width="200px"/>
+<img src="image/6.jpg" width="200px"/>
