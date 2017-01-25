@@ -3,6 +3,7 @@
 [[Arxiv](https://128.84.21.199/abs/1701.05957)]
 
 Image De-raining Using a Conditional Generative Adversarial Network
+
 He Zhang, Vishwanath Sindagi, Vishal M. Patel
 
 
