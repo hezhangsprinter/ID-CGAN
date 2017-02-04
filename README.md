@@ -13,10 +13,26 @@ In this paper, we are investating a new point new in addressing single image de-
 <img src="image/example1.png" width="400px" height="200px"/><img src="image/example2.png" width="400px" height="200px"/>
 
 
-Instal torch7 
-Install nngraph
+**Instal torch7**
 
-clone the all the code into your computer
+ **Install nngraph**
+
+
+ **Install hdf5**
+ 
+Download the dataset from (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s) 
+and put the dataset into the "github" folder
+
+
+
+Run 
+### DATA_ROOT=./datasets/facades name=facades_generation which_direction=BtoA th train.lua
+
+to train the model
+
+
+
+clone all the code into your computer
 
 Download the dataset from (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s) 
 and put the dataset into the "github" folder
