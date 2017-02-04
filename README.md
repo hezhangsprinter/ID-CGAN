@@ -12,8 +12,10 @@ In this paper, we are investating a new point new in addressing single image de-
 
 <img src="image/example1.png" width="400px" height="200px"/><img src="image/example2.png" width="400px" height="200px"/>
 
-The trained model and our training and testing dataset can be found at 
 
+Instal torch7 
+Install nngrapg
+The trained model and our training and testing dataset can be found at 
 (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s)
 
 Acknowledgments
