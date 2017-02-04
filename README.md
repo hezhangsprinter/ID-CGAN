@@ -20,7 +20,7 @@ Install nngraph
 Install hdf5
  
 Download the dataset from (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s) 
-and put the dataset folder into the "github" folder
+and put the dataset folder into the "IDGAN" folder
 
 ## Training
 
