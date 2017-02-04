@@ -18,4 +18,5 @@ The trained model and our training and testing dataset can be found at
 
 Acknowledgments
 
-Code borrows heavily from pix2pix and Perceptual Loss. Thanks for the sharing.
+Code borrows heavily from [[pix2pix](https://github.com/phillipi/pix2pix)]
+ and [[Perceptual Loss](https://github.com/jcjohnson/fast-neural-style)]. Thanks for the sharing.
