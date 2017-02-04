@@ -13,24 +13,24 @@ In this paper, we are investating a new point new in addressing single image de-
 <img src="image/example1.png" width="400px" height="200px"/><img src="image/example2.png" width="400px" height="200px"/>
 
 ## Prepare
-	Instal torch7
+Instal torch7
 
-	Install nngraph
+Install nngraph
 
-	Install hdf5
+Install hdf5
  
 Download the dataset from (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s) 
 and put the dataset folder into the "github" folder
 
 ## Training
 
-	**DATA_ROOT=./datasets/rain name=facades_generation which_direction=BtoA th train.lua**  
+	DATA_ROOT=./datasets/rain name=facades_generation which_direction=BtoA th train.lua  
 
 
 
 ## Testing
 
-	**DATA_ROOT=./datasets/rain name=facades_generation which_direction=BtoA phase=val th test.lua**
+	DATA_ROOT=./datasets/rain name=facades_generation which_direction=BtoA phase=val th test.lua
 
 The trained IDGAN model  and our training and testing dataset can be found at 
 (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s)
