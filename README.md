@@ -28,7 +28,7 @@ and put the dataset folder into the "github" folder
 
 ## Testing
 
-	DATA_ROOT=./datasets/rain name=rain which_direction=BtoA phase=val th test.lua
+	DATA_ROOT=./datasets/rain name=rain which_direction=BtoA phase=test_nature th test.lua
 
 
 ##  Testing using IDGAN model
