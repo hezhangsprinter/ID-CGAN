@@ -30,7 +30,9 @@ and put the dataset folder into the "github" folder
 
 	DATA_ROOT=./datasets/rain name=facades_generation which_direction=BtoA phase=val th test.lua
 
-The trained IDGAN model  and our training and testing dataset can be found at 
+
+##  Testing using IDGAN model
+The trained IDGAN model  and our training and testing datasets can be found at 
 (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s)
 
 *Make sure you download the vgg model that used for perceotual loss and put it in the .\github2\per_loss
