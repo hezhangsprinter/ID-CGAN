@@ -23,23 +23,17 @@ In this paper, we are investating a new point new in addressing single image de-
 Download the dataset from (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s) 
 and put the dataset into the "github" folder
 
+## Training
 
-
-Run 
-### DATA_ROOT=./datasets/facades name=facades_generation which_direction=BtoA th train.lua
-
-to train the model
+Run  **DATA_ROOT=./datasets/rain name=facades_generation which_direction=BtoA th train.lua**   to train the model
 
 
 
-clone all the code into your computer
+## Testing
 
-Download the dataset from (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s) 
-and put the dataset into the "github" folder
+**DATA_ROOT=./datasets/rain name=facades_generation which_direction=BtoA phase=val th test.lua**
 
-
-
-The trained model and our training and testing dataset can be found at 
+The trained IDGAN model  and our training and testing dataset can be found at 
 (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s)
 
 Acknowledgments
