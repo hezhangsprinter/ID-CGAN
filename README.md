@@ -39,7 +39,7 @@ The trained ID-CGAN model  and our training and testing datasets can be found at
 
 
 
-Acknowledgments
+##Acknowledgments##
 
 Code borrows heavily from [[pix2pix](https://github.com/phillipi/pix2pix)]
  and [[Perceptual Loss](https://github.com/jcjohnson/fast-neural-style)]. Thanks for the sharing.
