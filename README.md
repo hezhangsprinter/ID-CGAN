@@ -35,7 +35,7 @@ and put the dataset folder into the "github" folder
 The trained IDGAN model  and our training and testing datasets can be found at 
 (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s)
 
-*Make sure you download the vgg model that used for perceotual loss and put it in the .\IDGAN\per_loss\models
+*Make sure you download the vgg model that used for perceotual loss and put it in the ./IDGAN/per_loss/models
 Acknowledgments
 
 Code borrows heavily from [[pix2pix](https://github.com/phillipi/pix2pix)]
