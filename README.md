@@ -14,7 +14,15 @@ In this paper, we are investating a new point new in addressing single image de-
 
 
 Instal torch7 
-Install nngrapg
+Install nngraph
+
+clone the all the code into your computer
+
+Download the dataset from (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s) 
+and put the dataset into the "github" folder
+
+
+
 The trained model and our training and testing dataset can be found at 
 (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s)
 
