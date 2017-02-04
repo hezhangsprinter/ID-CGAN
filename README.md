@@ -9,6 +9,12 @@ He Zhang, Vishwanath Sindagi, Vishal M. Patel
 
 In this paper, we investigate a new point of view in addressing single image de-raining problem. Instead of focusing only on deciding what is a good prior or a good framework to achieve good quantitative and qualitative performance, we also ensure that the de-rained image does not degrade the performance of a given computer vision algorithm such as detection and classification. In other words, the de-rained result should be indistinguishable from its corresponding clear image to a given discriminator. This criterion can be directly incorporated into the optimization framework by using the recently introduced conditional generative adversarial networks (GANs). To minimize artifacts introduced by GANs and ensure better visual quality, a new refined loss function is introduced.
 
+@article{zhang2017image,
+  title={Image De-raining Using a Conditional Generative Adversarial Network},
+  author={Zhang, He and Sindagi, Vishwanath and Patel, Vishal M},
+  journal={arXiv preprint arXiv:1701.05957},
+  year={2017}
+} 
 
 <img src="image/example1.png" width="400px" height="200px"/><img src="image/example2.png" width="400px" height="200px"/>
 
