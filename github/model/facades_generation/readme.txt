@@ -1,1 +1,1 @@
-put trained model here
+put trained model in this folder
