@@ -1,6 +1,6 @@
-ID-CGAN
+[[ID-CGAN](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
 
-[[Arxiv](https://128.84.21.199/abs/1701.05957)]   
+[[Image De-raining Using a Conditional Generative Adversarial Network](https://128.84.21.199/abs/1701.05957)]   
 
 Image De-raining Using a Conditional Generative Adversarial Network
 
@@ -18,7 +18,6 @@ In this paper, we investigate a new point of view in addressing single image de-
 
 <img src="image/example1.png" width="400px" height="200px"/><img src="image/example2.png" width="400px" height="200px"/>
 
-[[Project Page](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
 
 
 ## Prepare
