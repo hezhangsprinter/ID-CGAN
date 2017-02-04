@@ -26,8 +26,6 @@ and put the dataset folder into the "github" folder
 
 	DATA_ROOT=./datasets/rain name=facades_generation which_direction=BtoA th train.lua  
 
-
-
 ## Testing
 
 	DATA_ROOT=./datasets/rain name=facades_generation which_direction=BtoA phase=val th test.lua
