@@ -28,7 +28,7 @@ Install nngraph
 
 Install hdf5
  
-Download the dataset from (https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s) 
+Download the dataset from (https://drive.google.com/drive/folders/0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s?resourcekey=0-dUoT9AJl1q6fXow9t5TcRQ&usp=sharing) 
 and put the dataset folder into the "IDCGAN" folder
 
 ## Training
@@ -42,7 +42,7 @@ and put the dataset folder into the "IDCGAN" folder
 
 ##  Testing using ID-CGAN model
 The trained ID-CGAN model  and our training and testing datasets can be found at 
-(https://drive.google.com/open?id=0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s)
+(https://drive.google.com/drive/folders/0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s?resourcekey=0-dUoT9AJl1q6fXow9t5TcRQ&usp=sharing)
 
 *Make sure you download the vgg model that used for perceotual loss and put it in the ./IDCGAN/per_loss/models
 
