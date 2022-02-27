@@ -34,6 +34,8 @@ and put the dataset folder into the "IDCGAN" folder
 !!!!!!!  It seems that the dataset has been maliciously deleted by someone. I will try to bring it back. In the meantime, you could also get access to another training set
 https://github.com/hezhangsprinter/DID-MDN
 
+
+The back up can be found: https://drive.google.com/file/d/1_pP8fR-gpHUB0q1kpvZxKALvjLZ-JVM8/view
 ## Training
 
 	DATA_ROOT=./datasets/rain name=rain which_direction=BtoA th train.lua
