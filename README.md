@@ -28,14 +28,16 @@ Install nngraph
 
 Install hdf5
  
-Download the dataset from (https://drive.google.com/drive/folders/0Bw2e6Q0nQQvGbi1xV1Yxd09rY2s?resourcekey=0-dUoT9AJl1q6fXow9t5TcRQ&usp=sharing) 
+Download the dataset from (https://drive.google.com/file/d/1_pP8fR-gpHUB0q1kpvZxKALvjLZ-JVM8/view) 
 and put the dataset folder into the "IDCGAN" folder
+
+The back up can be found: https://drive.google.com/file/d/1_pP8fR-gpHUB0q1kpvZxKALvjLZ-JVM8/view
+
 
 !!!!!!!  It seems that the dataset has been maliciously deleted by someone. I will try to bring it back. In the meantime, you could also get access to another training set
 https://github.com/hezhangsprinter/DID-MDN
 
 
-The back up can be found: https://drive.google.com/file/d/1_pP8fR-gpHUB0q1kpvZxKALvjLZ-JVM8/view
 ## Training
 
 	DATA_ROOT=./datasets/rain name=rain which_direction=BtoA th train.lua
